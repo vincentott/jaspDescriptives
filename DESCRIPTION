@@ -16,8 +16,7 @@ Imports:
   jaspGraphs,
   ggrain,
   ggpp,
-  ggtext,
-  dplyr
+  ggtext
 Remotes:
   jasp-stats/jaspBase,
   jasp-stats/jaspGraphs
